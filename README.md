@@ -13,7 +13,7 @@ Or at least it will.
 <p>
 Changes will be accepted after the core infrastructure is in a usable state.
 <br><br>
-Contributors must follow the style guide found <a href="https://github.com/DavidMcKissick/Simple-commit-style-guide">here.</a> A copy
+Contributors must <a href="https://gitlab.com/DavidMckissick/Simple-commit-style-guide">follow the style guide found here.</a> A copy
 of the style guide can be found below for easier access.
 </p>
 <br>
